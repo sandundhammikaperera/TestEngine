@@ -1,0 +1,30 @@
+		Test Engine-BIT Final Year Project
+		------------------------------
+
+Introduction:
+This program helps to automate MCQ-type tests to be taken via a desktop computer.
+
+
+Features:
+* Supports windows and reactos.
+* Programmed with C++ using and uses win32 API's directly for performance reasons.
+* Uses simple ".test" binary files for performance reasons.
+* Uses very simple user interfaces.
+* Support for bit-map images.
+
+
+Techinical Specifications:
+
+Coded with the codeblocks IDE.Not using other library then STL and win32 for
+performance reasons.
+
+
+
+
+
+
+Contracts:
+	Student-Registration-Number:	R051257
+	Student-Address:		No 29,Dias Place,Panadura.
+	Project-Coordinator      	
+	
