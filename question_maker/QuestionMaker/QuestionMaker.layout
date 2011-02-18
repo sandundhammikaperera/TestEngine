@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="bitmap.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="4834" topLine="132" />
+	</File>
+	<File name="bitmap.h" open="0" top="0" tabpos="3">
+		<Cursor position="182" topLine="0" />
+	</File>
+	<File name="childwindows.h" open="1" top="0" tabpos="5">
+		<Cursor position="768" topLine="24" />
+	</File>
+	<File name="filehandler.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="5394" topLine="93" />
+	</File>
+	<File name="filehandler.h" open="1" top="0" tabpos="2">
+		<Cursor position="266" topLine="4" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="6">
+		<Cursor position="27956" topLine="767" />
+	</File>
+	<File name="readme.txt" open="0" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="resource.h" open="0" top="0" tabpos="4">
+		<Cursor position="968" topLine="3" />
+	</File>
+	<File name="resource.rc" open="1" top="0" tabpos="8">
+		<Cursor position="509" topLine="11" />
+	</File>
+	<File name="validate.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="283" topLine="0" />
+	</File>
+	<File name="validate.h" open="0" top="0" tabpos="6">
+		<Cursor position="1008" topLine="18" />
+	</File>
+	<File name="..\..\test_taker\question.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="5625" topLine="213" />
+	</File>
+	<File name="..\..\test_taker\question.h" open="1" top="0" tabpos="4">
+		<Cursor position="0" topLine="51" />
+	</File>
+</CodeBlocks_layout_file>

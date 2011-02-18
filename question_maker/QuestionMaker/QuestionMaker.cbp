@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="QuestionMaker" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\QuestionMaker" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="..\..\test_taker\obj\Debug" />
+					<Add directory="..\..\test_taker" />
+				</Compiler>
+				<Linker>
+					<Add library="comdlg32" />
+					<Add directory="..\..\test_taker\obj" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\QuestionMaker" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add library="gdi32" />
+			<Add library="user32" />
+			<Add library="kernel32" />
+		</Linker>
+		<Unit filename="QuestionMaker.cbp" />
+		<Unit filename="QuestionMaker.depend" />
+		<Unit filename="QuestionMaker.layout" />
+		<Unit filename="bitmap.cpp" />
+		<Unit filename="bitmap.h" />
+		<Unit filename="childwindows.h" />
+		<Unit filename="filehandler.cpp" />
+		<Unit filename="filehandler.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="readme.txt" />
+		<Unit filename="resource.h" />
+		<Unit filename="resource.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="validate.cpp" />
+		<Unit filename="validate.h" />
+		<Unit filename="..\..\test_taker\question.cpp" />
+		<Unit filename="..\..\test_taker\question.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

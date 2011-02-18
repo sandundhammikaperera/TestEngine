@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1295638458 source:c:\users\nature\final_year_project\question_maker\questionmaker\resource.rc
+	"resource.h"
+
+1295637381 c:\users\nature\final_year_project\question_maker\questionmaker\resource.h
+	<windows.h>
+
+1297888534 source:c:\users\nature\final_year_project\question_maker\questionmaker\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<stack>
+	<windows.h>
+	<windowsx.h>
+	<cassert>
+	"../../test_taker/question.h"
+	"bitmap.h"
+	"./resource.h"
+	"./validate.h"
+	"./childwindows.h"
+	<algorithm>
+
+1294336522 source:c:\users\nature\final_year_project\question_maker\questionmaker\bitmap.cpp
+	<windows.h>
+	<iostream>
+	<string>
+	"bitmap.h"
+
+1288944039 c:\users\nature\final_year_project\question_maker\questionmaker\bitmap.h
+	<windows.h>
+	<iostream>
+
+1295984432 c:\users\nature\final_year_project\test_taker\question.h
+	<iostream>
+	<stdio.h>
+	<string>
+	<vector>
+
+1297888560 source:c:\users\nature\final_year_project\question_maker\questionmaker\validate.cpp
+	"validate.h"
+	<windows.h>
+	<iostream>
+	<string>
+	<cassert>
+	<windowsx.h>
+	"../../test_taker/question.h"
+	"childwindows.h"
+
+1293492275 c:\users\nature\final_year_project\question_maker\questionmaker\validate.h
+	<iostream>
+	<string>
+	<windows.h>
+
+1297203424 c:\users\nature\final_year_project\question_maker\questionmaker\childwindows.h
+
+1296672710 source:c:\users\nature\final_year_project\test_taker\question.cpp
+	<windows.h>
+	<iostream>
+	<cassert>
+	<string>
+	<fstream>
+	"question.h"
+
+1297203583 source:c:\users\nature\final_year_project\question_maker\questionmaker\filehandler.cpp
+	"filehandler.h"
+	<stdio.h>
+	<iostream>
+	<string>
+	<windows.h>
+	"../../test_taker/question.h"
+
+1297888508 c:\users\nature\final_year_project\question_maker\questionmaker\filehandler.h
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+	<windowsx.h>
+	"../../test_taker/question.h"
+

@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1286431858 source:c:\users\nature\final_year_project\test_taker\main.cpp
+	<windows.h>
+
+1294349051 source:c:\users\nature\final_year_project\test_taker\question.cpp
+	<windows.h>
+	<iostream>
+	<cassert>
+	<string>
+	<fstream>
+	"question.h"
+
+1294600430 c:\users\nature\final_year_project\test_taker\question.h
+	<iostream>
+	<stdio.h>
+	<string>
+	<vector>
+
+1289429659 source:c:\users\nature\final_year_project\test_taker\test.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"question.h"
+	"test.h"
+
+1286257650 c:\users\nature\final_year_project\test_taker\test.h
+	<iostream>
+	<string>
+	<vector>
+	"./question.h"
+
